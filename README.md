@@ -41,7 +41,7 @@ Maxun lets you train a robot in 2 minutes and scrape the web on auto-pilot. Web 
 2. Ensure you have setup the `.env` file in that same folder
 3. Run the command below from a terminal
 ```
-docker-compose up -d
+docker-compose up -dgit clone https://github.com/getmaxun/maxun
 ```
 You can access the frontend at http://localhost:5173/ and backend at http://localhost:8080/
 
